@@ -10,7 +10,7 @@ export default function PredictorForm() {
 
   const handlePredict = async () => {
     const res = await predictMind(text);
-    setResult(res.data prediction);
+    setResult(res.data ,prediction);
   };
 
   return (

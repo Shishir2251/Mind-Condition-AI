@@ -9,7 +9,7 @@ i18n.use(initReactI18next).init({
         predict: "Predict",
         message: "Enter your message",
         role: "Select Role",
-        disclaimer: "This system does not provide medical diagnosis."
+        disclaimer: "This system does NOT provide medical diagnosis."
       }
     },
     bn: {

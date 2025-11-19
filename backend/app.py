@@ -8,7 +8,11 @@ from transformers import pipeline
 
 app = FastAPI()
 
-chat_model = pipeline("text-generation", model="google/gemma-2-2b-it")
+chat_model = pipeline(
+    "text-generation",
+    model="microsoft/phi-3-mini-4k-instruct"
+)
+
 
 
 class PredictRequest(BaseModel):
