@@ -2,21 +2,6 @@
 
 A full-stack AI-powered mental state prediction and role-based chatbot system built with FastAPI + HuggingFace + React + Tailwind + Vite.
 🚀 Features
-🔤 Multilingual Support
-
-English
-
-Bangla
-
-🧑‍⚕️ Role-Based AI Responses
-
-Chatbot can act as:
-
-General AI
-
-Doctor
-
-Psychologist
 
 🧠 Mental Condition Prediction
 
